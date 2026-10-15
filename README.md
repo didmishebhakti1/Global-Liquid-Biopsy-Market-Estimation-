@@ -1,2 +1,2 @@
 # Global-Liquid-Biopsy-Market-Estimation-
-Developed a regional market estimation and forecasting model for the global liquid biopsy market from 2027 to 2036
+Developed a regional market estimation and forecasting model for the global liquid biopsy market from 2027 to 2036, covering North America, Europe, Asia Pacific, Latin America, and the Middle East & Africa. Estimated market size in USD million by analyzing regional market trends, disease prevalence, adoption of liquid biopsy technologies, advancements in cancer diagnostics, and growth opportunities to project future market performance.
